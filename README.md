@@ -188,3 +188,9 @@ O DFS exploraria fundo em um corredor antes de verificar os outros, podendo enco
 
 ---
 
+## Screenshots
+
+![Print 1](frontend/public/ultimo%20trabalho%201.png)
+![Print 2](frontend/public/ultimo%20trabalho%202.png)
+![Print 3](frontend/public/ultimo%20trabalho%203.png)
+
