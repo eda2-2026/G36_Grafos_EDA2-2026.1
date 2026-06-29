@@ -180,11 +180,11 @@ Tipos de célula:
 
 O DFS exploraria fundo em um corredor antes de verificar os outros, podendo encontrar uma vaga distante antes de ver uma próxima da entrada. O BFS expande **por camadas** — garante que a primeira vaga encontrada é necessariamente a de menor distância.
 
----
+
 
 ## Video
 
 [Link do vídeo ](https://drive.google.com/file/d/1pfE6mnuN0JDR0N4Y2XpiqQG-bMv49dWM/view?usp=sharing)
 
-
+---
 
