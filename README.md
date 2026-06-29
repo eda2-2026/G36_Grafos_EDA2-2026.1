@@ -182,4 +182,9 @@ O DFS exploraria fundo em um corredor antes de verificar os outros, podendo enco
 
 ---
 
+## Video
+
+[Link do vídeo ](https://drive.google.com/file/d/1pfE6mnuN0JDR0N4Y2XpiqQG-bMv49dWM/view?usp=sharing)
+
+
 
