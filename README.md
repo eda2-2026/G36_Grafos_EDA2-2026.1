@@ -5,6 +5,7 @@
 | Matrícula  | Aluno                              |
 | ---------- | ---------------------------------- |
 | 231026616  | Davi Emanuel Ribeiro de Oliveira   |
+| 202045769  | Gabriel  Saraiva Canabrava         |
 
 ## Sobre
 
