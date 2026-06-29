@@ -182,6 +182,4 @@ O DFS exploraria fundo em um corredor antes de verificar os outros, podendo enco
 
 ---
 
-<p align="center">
-  <b>231026616 — Davi Emanuel Ribeiro de Oliveira</b>
-</p>
+
